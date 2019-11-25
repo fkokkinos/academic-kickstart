@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Experience"
+title = "Professional Experience"
 subtitle = ""
 
 # Date format for experience
@@ -18,27 +18,38 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  title = "Research Intern"
+  company = "Huawei"
+  company_url = "https://www.huawei.com"
+  location = "London"
+  date_start = "2019-07-01"
+  date_end = "2019-10-31"
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
+  title = "Machine Learning Engineer"
+  company = "Behavioral Signals"
+  company_url = "https://behavioralsignals.com/"
   location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  date_start = "2016-08-01"
+  date_end = "2017-08-01"
+
+[[experience]]
+    title = "Research Assistant"
+    company = '"Athena" Research & Innovation Center'
+    company_url = "http://www.ilsp.gr/en"
+    location = "Athens"
+    date_start = "2016-01-01"
+    date_end = "2017-04-01"
+
+[[experience]]
+    title = "Data Analysis Intern"
+    company = 'Water Board of Nicosia'
+    company_url = "https://www.wbn.org.cy/index.php/el/"
+    location = "Nicosia"
+    date_start = "2016-06-01"
+    date_end = "2016-08-01"
+
 
 +++
