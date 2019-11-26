@@ -1,7 +1,7 @@
 ---
 title: "Tweester at SemEval-2017 Task 4: Fusion of Semantic-Affective and pairwise classification models for sentiment analysis in Twitter"
 date: 2017-08-01
-publishDate: 2019-11-25T10:37:03.382512Z
+publishDate: 2019-11-26T11:15:33.478121Z
 authors: ["Athanasia Kolovou", "Filippos Kokkinos", "Aris Fergadis", "Pinelopi Papalampidi", "Elias Iosif", "Nikolaos Malandrakis", "Elisavet Palogiannidi", "Haris Papageorgiou", "Shrikanth Narayanan", "Alexandros Potamianos"]
 publication_types: ["1"]
 abstract: "In this paper, we describe our submission to SemEval2017 Task 4: Sentiment Analysis in Twitter. Specifically the proposed system participated both to tweet polarity classification (two-, three- and five class) and tweet quantification (two and five-class) tasks."

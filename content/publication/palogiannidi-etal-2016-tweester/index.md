@@ -1,7 +1,7 @@
 ---
 title: "Tweester at SemEval-2016 Task 4: Sentiment Analysis in Twitter Using Semantic-Affective Model Adaptation"
 date: 2016-06-01
-publishDate: 2019-11-25T10:37:03.383054Z
+publishDate: 2019-11-26T11:15:33.478727Z
 authors: ["Elisavet Palogiannidi", "Athanasia Kolovou", "Fenia Christopoulou", "Filippos Kokkinos", "Elias Iosif", "Nikolaos Malandrakis", "Haris Papageorgiou", "Shrikanth Narayanan", "Alexandros Potamianos"]
 publication_types: ["1"]
 abstract: ""
