@@ -8,5 +8,6 @@ abstract: ""
 featured: false
 publication: "*Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition*"
 url_pdf: "http://openaccess.thecvf.com/content_CVPR_2019/papers/Kokkinos_Iterative_Residual_CNNs_for_Burst_Photography_Applications_CVPR_2019_paper.pdf"
+url_project: "https://fkokkinos.github.io/deep_burst/"
+url_code: "https://github.com/cig-skoltech/burst-cvpr-2019"
 ---
-

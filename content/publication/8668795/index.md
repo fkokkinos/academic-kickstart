@@ -8,5 +8,7 @@ abstract: "Modern digital cameras rely on the sequential execution of separate i
 featured: false
 publication: "*IEEE Transactions on Image Processing*"
 url_pdf: "https://arxiv.org/pdf/1807.06403.pdf"
+url_code: "https://github.com/cig-skoltech/deep_demosaick"
+url_Project: "https://cig.skoltech.ru/deep_demosaick/"
 doi: "10.1109/TIP.2019.2905991"
 ---
